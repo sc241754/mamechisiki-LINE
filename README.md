@@ -1,4 +1,4 @@
-# adobento
+# mamechisiki
 
 # AImamechisikiaLINE
 プロジェクトの説明です。
