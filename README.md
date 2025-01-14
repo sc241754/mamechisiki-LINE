@@ -2,14 +2,14 @@
 
 # AI mamechisiki LINE
 プロジェクトの説明です。
-こういうのを作りたいです。
+豆知識を返信してくれるLINEを作りたいです
 https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/README.md
 
 # 記述してほしいこと
-- テーマ名
-- プログラムの概要
+- テーマ名：豆知識LINE
+- プログラムの概要：
 - 動作環境 / 必要条件（Requirements）
-- 使い方
+- 使い方：
 - 工夫した点
 - 参考にしたサイトがあれば記載
 - 作者名
