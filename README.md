@@ -10,6 +10,6 @@ https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/README.md
 - プログラムの概要：文字入力画面に文字を入力し、送信したら豆知識がランダムに返信される
 - 動作環境 / 必要条件（Requirements）
 - 使い方：文字を入力し送信
-- 工夫した点：送信ボタンを実行したこと、chat gptをふんだんに利用したこと
+- 工夫した点：送信ボタンを実装したこと、chat gptをふんだんに利用したこと
 - 参考にしたサイトがあれば記載：chat gpt
 - 作者名:伴幸季奈
